@@ -22,6 +22,8 @@ call dein#add('altercation/vim-colors-solarized')
 call dein#add('m2mdas/phpcomplete-extended')
 call dein#add('m2mdas/phpcomplete-extended-symfony')
 call dein#add('vim-php/tagbar-phpctags.vim')
+call dein#add('tobyS/vmustache')
+call dein#add('tobyS/pdv')
 
 call dein#end()
 
