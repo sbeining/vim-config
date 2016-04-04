@@ -30,6 +30,9 @@ call dein#add('vim-php/tagbar-phpctags.vim')
 call dein#add('tobyS/vmustache')
 call dein#add('tobyS/pdv')
 
+" Syntax
+call dein#add('beyondwords/vim-twig')
+
 call dein#end()
 
 filetype plugin indent on
