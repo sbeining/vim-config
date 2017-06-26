@@ -32,6 +32,10 @@ call dein#add('tobyS/pdv')
 " Syntax
 call dein#add('beyondwords/vim-twig')
 
+" RST
+call dein#add('Rykka/InstantRst')
+call dein#add('Rykka/riv.vim')
+
 call dein#end()
 
 filetype plugin indent on

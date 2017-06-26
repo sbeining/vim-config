@@ -32,6 +32,10 @@ NeoBundle 'tobyS/pdv'
 " Syntax
 NeoBundle 'beyondwords/vim-twig'
 
+" RST
+NeoBundle 'Rykka/InstantRst'
+NeoBundle 'Rykka/riv.vim'
+
 call neobundle#end()
 
 filetype plugin indent on
