@@ -29,6 +29,9 @@ call dein#add('vim-php/tagbar-phpctags.vim')
 call dein#add('tobyS/vmustache')
 call dein#add('tobyS/pdv')
 
+" Scala
+call dein#add('derekwyatt/vim-scala')
+
 " Syntax
 call dein#add('beyondwords/vim-twig')
 

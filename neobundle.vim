@@ -29,6 +29,9 @@ NeoBundle 'vim-php/tagbar-phpctags.vim'
 NeoBundle 'tobyS/vmustache'
 NeoBundle 'tobyS/pdv'
 
+" Scala
+NeoBundle 'derekwyatt/vim-scala'
+
 " Syntax
 NeoBundle 'beyondwords/vim-twig'
 
