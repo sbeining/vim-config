@@ -21,3 +21,10 @@ set tabstop=2 expandtab
 set shiftwidth=2
 set mouse=a
 set backspace=indent,eol,start
+
+map @@x !%xmllint --format --recover -<CR>:set ft=xml<CR>
+
+if executable("rg")
+  set grepprg=rg\ --vimgrep\ --no-heading
+  set grepformat=%f:%l:%c:%m,%f:%l:%m
+endif
