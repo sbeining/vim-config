@@ -35,6 +35,9 @@ call dein#add('derekwyatt/vim-scala')
 " Syntax
 call dein#add('beyondwords/vim-twig')
 
+" Todo
+call dein#add('freitass/todo.txt-vim')
+
 " RST
 call dein#add('Rykka/InstantRst')
 call dein#add('Rykka/riv.vim')

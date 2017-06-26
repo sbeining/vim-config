@@ -35,6 +35,9 @@ NeoBundle 'derekwyatt/vim-scala'
 " Syntax
 NeoBundle 'beyondwords/vim-twig'
 
+" Todo
+NeoBundle 'freitass/todo.txt-vim'
+
 " RST
 NeoBundle 'Rykka/InstantRst'
 NeoBundle 'Rykka/riv.vim'
