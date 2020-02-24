@@ -29,6 +29,7 @@ call dein#add('shawncplus/phpcomplete.vim')
 call dein#add('vim-php/tagbar-phpctags.vim')
 call dein#add('tobyS/vmustache')
 call dein#add('tobyS/pdv')
+call dein#add('phpstan/vim-phpstan')
 
 " Scala
 call dein#add('derekwyatt/vim-scala')

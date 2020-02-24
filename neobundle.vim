@@ -29,6 +29,7 @@ NeoBundle 'shawncplus/phpcomplete.vim'
 NeoBundle 'vim-php/tagbar-phpctags.vim'
 NeoBundle 'tobyS/vmustache'
 NeoBundle 'tobyS/pdv'
+NeoBundle 'phpstan/vim-phpstan'
 
 " Scala
 NeoBundle 'derekwyatt/vim-scala'
