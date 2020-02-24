@@ -38,6 +38,8 @@ call dein#add('neovimhaskell/haskell-vim')
 
 " Syntax
 call dein#add('beyondwords/vim-twig')
+call dein#add('kchmck/vim-coffee-script')
+call dein#add('posva/vim-vue')
 
 " Todo
 call dein#add('freitass/todo.txt-vim')

@@ -38,6 +38,8 @@ NeoBundle 'eagletmt/ghcmod-vim'
 
 " Syntax
 NeoBundle 'beyondwords/vim-twig'
+NeoBundle 'kchmck/vim-coffee-script'
+NeoBundle 'posva/vim-vue'
 
 " Todo
 NeoBundle 'freitass/todo.txt-vim'
