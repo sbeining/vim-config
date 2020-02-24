@@ -33,6 +33,9 @@ NeoBundle 'tobyS/pdv'
 " Scala
 NeoBundle 'derekwyatt/vim-scala'
 
+" Haskell
+NeoBundle 'eagletmt/ghcmod-vim'
+
 " Syntax
 NeoBundle 'beyondwords/vim-twig'
 

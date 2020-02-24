@@ -33,6 +33,9 @@ call dein#add('tobyS/pdv')
 " Scala
 call dein#add('derekwyatt/vim-scala')
 
+" Haskell
+call dein#add('neovimhaskell/haskell-vim')
+
 " Syntax
 call dein#add('beyondwords/vim-twig')
 

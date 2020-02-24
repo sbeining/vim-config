@@ -9,3 +9,4 @@ let g:deoplete#omni_patterns.php = [
             \'[^. \t0-9]\->\w*',
             \'[^. \t0-9]\::\w*',
             \]
+let g:necoghc_enable_detailed_browse = 1
