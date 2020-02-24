@@ -19,6 +19,7 @@ NeoBundle 'tpope/vim-repeat'
 NeoBundle 'tpope/vim-surround'
 NeoBundle 'tpope/vim-unimpaired'
 NeoBundle 'vim-scripts/yaifa.vim'
+NeoBundle 'dense-analysis/ale'
 
 " Themes
 NeoBundle 'altercation/vim-colors-solarized'

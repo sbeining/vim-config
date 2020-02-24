@@ -19,6 +19,7 @@ call dein#add('tpope/vim-repeat')
 call dein#add('tpope/vim-surround')
 call dein#add('tpope/vim-unimpaired')
 call dein#add('vim-scripts/yaifa.vim')
+call dein#add('dense-analysis/ale')
 
 " Themes
 call dein#add('altercation/vim-colors-solarized')
